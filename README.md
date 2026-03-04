@@ -11,7 +11,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -21,7 +20,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
- Live Site URL: [Vercel](https://frontend-qrcode-two.vercel.app/)
+ Live Site URL: [Vercel](https://frontend-blogpreview-five.vercel.app/)
 
 ## My process
 
